@@ -1,0 +1,261 @@
+ID,category
+C-001,Acoustics
+C-002,Agricultural Economics & Policy
+C-003,Agricultural Engineering
+C-004,"Agriculture, Dairy & Animal Science"
+C-005,"Agriculture, Multidisciplinary"
+C-006,Agronomy
+C-007,Allergy
+C-008,Anatomy & Morphology
+C-009,Andrology
+C-010,Anesthesiology
+C-011,Anthropology
+C-012,Archaeology
+C-013,Architecture
+C-014,Area Studies
+C-015,Art
+C-016,Arts & Humanities
+C-017,Asian Studies
+C-018,Astronomy & Astrophysics
+C-019,Audiology & Speech-Language Pathology
+C-020,Automation & Control Systems
+C-021,Behavioral Sciences
+C-022,Biochemical Research Methods
+C-023,Biochemistry & Molecular Biology
+C-024,Biodiversity Conservation
+C-025,Biology
+C-026,Biophysics
+C-027,Biotechnology & Applied Microbiology
+C-028,Business
+C-029,"Business, Finance"
+C-030,Cardiac & Cardiovascular Systems
+C-031,Cell & Tissue Engineering
+C-032,Cell Biology
+C-033,"Chemistry, Analytical"
+C-034,"Chemistry, Applied"
+C-035,"Chemistry, Inorganic & Nuclear"
+C-036,"Chemistry, Medicinal"
+C-037,"Chemistry, Multidisciplinary"
+C-038,"Chemistry, Organic"
+C-039,"Chemistry, Physical"
+C-040,Classics
+C-041,Clinical Neurology
+C-042,"Clinical, Pre-Clinical & Health"
+C-043,Communication
+C-044,"Computer Science, Artificial Intelligence"
+C-045,"Computer Science, Cybernetics"
+C-046,"Computer Science, Hardware & Architecture"
+C-047,"Computer Science, Information Systems"
+C-048,"Computer Science, Interdisciplinary Applications"
+C-049,"Computer Science, Software Engineering"
+C-050,"Computer Science, Theory & Methods"
+C-051,Construction & Building Technology
+C-052,Criminology & Penology
+C-053,Critical Care Medicine
+C-054,Crystallography
+C-055,Cultural Studies
+C-056,Dance
+C-057,Demography
+C-058,"Dentistry, Oral Surgery & Medicine"
+C-059,Dermatology
+C-060,Development Studies
+C-061,Developmental Biology
+C-062,Ecology
+C-063,Economics
+C-064,Education & Educational Research
+C-065,"Education, Scientific Disciplines"
+C-066,"Education, Special"
+C-067,Electrochemistry
+C-068,Emergency Medicine
+C-069,Endocrinology & Metabolism
+C-070,Energy & Fuels
+C-071,Engineering & Technology
+C-072,"Engineering, Aerospace"
+C-073,"Engineering, Biomedical"
+C-074,"Engineering, Chemical"
+C-075,"Engineering, Civil"
+C-076,"Engineering, Electrical & Electronic"
+C-077,"Engineering, Environmental"
+C-078,"Engineering, Geological"
+C-079,"Engineering, Industrial"
+C-080,"Engineering, Manufacturing"
+C-081,"Engineering, Marine"
+C-082,"Engineering, Mechanical"
+C-083,"Engineering, Multidisciplinary"
+C-084,"Engineering, Ocean"
+C-085,"Engineering, Petroleum"
+C-086,Entomology
+C-087,Environmental Sciences
+C-088,Environmental Studies
+C-089,Ergonomics
+C-090,Ethics
+C-091,Ethnic Studies
+C-092,Evolutionary Biology
+C-093,Family Studies
+C-094,"Film, Radio, Television"
+C-095,Fisheries
+C-096,Folklore
+C-097,Food Science & Technology
+C-098,Forestry
+C-099,Gastroenterology & Hepatology
+C-100,Genetics & Heredity
+C-101,Geochemistry & Geophysics
+C-102,Geography
+C-103,"Geography, Physical"
+C-104,Geology
+C-105,"Geosciences, Multidisciplinary"
+C-106,Geriatrics & Gerontology
+C-107,Gerontology
+C-108,Green & Sustainable Science & Technology
+C-109,Health Care Sciences & Services
+C-110,Health Policy & Services
+C-111,Hematology
+C-112,History
+C-113,History & Philosophy of Science
+C-114,History of Social Sciences
+C-115,Horticulture
+C-116,"Hospitality, Leisure, Sport & Tourism"
+C-117,"Humanities, Multidisciplinary"
+C-118,Imaging Science & Photographic Technology
+C-119,Immunology
+C-120,Industrial Relations & Labor
+C-121,Infectious Diseases
+C-122,Information Science & Library Science
+C-123,Instruments & Instrumentation
+C-124,Integrative & Complementary Medicine
+C-125,International Relations
+C-126,Language & Linguistics
+C-127,Law
+C-128,Life Sciences
+C-129,Limnology
+C-130,Linguistics
+C-131,Literary Reviews
+C-132,Literary Theory & Criticism
+C-133,Literature
+C-134,"Literature, African, Australian, Canadian"
+C-135,"Literature, American"
+C-136,"Literature, British Isles"
+C-137,"Literature, German, Dutch, Scandinavian"
+C-138,"Literature, Romance"
+C-139,"Literature, Slavic"
+C-140,Logic
+C-141,Management
+C-142,Marine & Freshwater Biology
+C-143,"Materials Science, Biomaterials"
+C-144,"Materials Science, Ceramics"
+C-145,"Materials Science, Characterization & Testing"
+C-146,"Materials Science, Coatings & Films"
+C-147,"Materials Science, Composites"
+C-148,"Materials Science, Multidisciplinary"
+C-149,"Materials Science, Paper & Wood"
+C-150,"Materials Science, Textiles"
+C-151,Mathematical & Computational Biology
+C-152,Mathematics
+C-153,"Mathematics, Applied"
+C-154,"Mathematics, Interdisciplinary Applications"
+C-155,Mechanics
+C-156,Medical Ethics
+C-157,Medical Informatics
+C-158,Medical Laboratory Technology
+C-159,"Medicine, General & Internal"
+C-160,"Medicine, Legal"
+C-161,"Medicine, Research & Experimental"
+C-162,Medieval & Renaissance Studies
+C-163,Metallurgy & Metallurgical Engineering
+C-164,Meteorology & Atmospheric Sciences
+C-165,Microbiology
+C-166,Microscopy
+C-167,Mineralogy
+C-168,Mining & Mineral Processing
+C-169,Multidisciplinary Sciences
+C-170,Music
+C-171,Mycology
+C-172,Nanoscience & Nanotechnology
+C-173,Neuroimaging
+C-174,Neurosciences
+C-175,Nuclear Science & Technology
+C-176,Nursing
+C-177,Nutrition & Dietetics
+C-178,Obstetrics & Gynecology
+C-179,Oceanography
+C-180,Oncology
+C-181,Operations Research & Management Science
+C-182,Ophthalmology
+C-183,Optics
+C-184,Ornithology
+C-185,Orthopedics
+C-186,Otorhinolaryngology
+C-187,Paleontology
+C-188,Parasitology
+C-189,Pathology
+C-190,Pediatrics
+C-191,Peripheral Vascular Disease
+C-192,Pharmacology & Pharmacy
+C-193,Philosophy
+C-194,Physical Sciences
+C-195,"Physics, Applied"
+C-196,"Physics, Atomic, Molecular & Chemical"
+C-197,"Physics, Condensed Matter"
+C-198,"Physics, Fluids & Plasmas"
+C-199,"Physics, Mathematical"
+C-200,"Physics, Multidisciplinary"
+C-201,"Physics, Nuclear"
+C-202,"Physics, Particles & Fields"
+C-203,Physiology
+C-204,Plant Sciences
+C-205,Poetry
+C-206,Political Science
+C-207,Polymer Science
+C-208,Primary Health Care
+C-209,Psychiatry
+C-210,Psychology
+C-211,"Psychology, Applied"
+C-212,"Psychology, Biological"
+C-213,"Psychology, Clinical"
+C-214,"Psychology, Developmental"
+C-215,"Psychology, Educational"
+C-216,"Psychology, Experimental"
+C-217,"Psychology, Mathematical"
+C-218,"Psychology, Multidisciplinary"
+C-219,"Psychology, Psychoanalysis"
+C-220,"Psychology, Social"
+C-221,Public Administration
+C-222,"Public, Environmental & Occupational Health"
+C-223,Quantum Science & Technology
+C-224,"Radiology, Nuclear Medicine & Medical Imaging"
+C-225,Regional & Urban Planning
+C-226,Rehabilitation
+C-227,Religion
+C-228,Remote Sensing
+C-229,Reproductive Biology
+C-230,Respiratory System
+C-231,Rheumatology
+C-232,Robotics
+C-233,Social Issues
+C-234,Social Sciences
+C-235,"Social Sciences, Biomedical"
+C-236,"Social Sciences, Interdisciplinary"
+C-237,"Social Sciences, Mathematical Methods"
+C-238,Social Work
+C-239,Sociology
+C-240,Soil Science
+C-241,Spectroscopy
+C-242,Sport Sciences
+C-243,Statistics & Probability
+C-244,Substance Abuse
+C-245,Surgery
+C-246,Telecommunications
+C-247,Theater
+C-248,Thermodynamics
+C-249,Toxicology
+C-250,Transplantation
+C-251,Transportation
+C-252,Transportation Science & Technology
+C-253,Tropical Medicine
+C-254,Urban Studies
+C-255,Urology & Nephrology
+C-256,Veterinary Sciences
+C-257,Virology
+C-258,Water Resources
+C-259,Women's Studies
+C-260,Zoology
